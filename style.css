@@ -1,0 +1,52 @@
+ root {
+--color-primary: black;
+--color-secondary: black;
+--color-text:yellow;
+--font-primary:'Open Sans',Helvetica,Arial,sans-serif;
+--font-bold: 700;
+--font-light: 400;
+--font-size-text: 13px;
+--font-size-title: 20px
+--font-size-section-title: 48px;
+--size-primary: 25px;
+--margin-primary: 25px;
+--padding-primary: 25px;
+}
+carsour{
+background-color:yellow;
+height:100vh;
+display:flex;
+align-items: center;
+}
+carsour div {
+margin-left:80px;
+}
+carsour a {
+color:yellow;
+text-decoration: none;
+background-color: red;
+}
+#file-upload {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 100px;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+img {
+  border: 1px solid black;
+  background-color: white;
+}
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+img {
+  width: 300px; 
+  height: auto; 
+  border-radius: 5px; 
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); 
+}
